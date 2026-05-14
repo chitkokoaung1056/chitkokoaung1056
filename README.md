@@ -1,10 +1,24 @@
-- 👋 Hi, I’m chit ko ko aung
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning react-native and popular javascript libraries
-- 💞️ I’m looking to collaborate on fullstack
+# Hi, I'm Chit Ko Ko Aung 👋
 
+I am a Computer Science student and aspiring full-stack developer focused on building modern web applications.
 
-<!---
-chitkokoaung1056/chitkokoaung1056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+
+- 🎯 Passionate about software development and web technologies  
+- 📚 Currently learning React Native and modern JavaScript frameworks/libraries  
+- 🚀 Interested in building full-stack applications with clean architecture  
+- 🤝 Open to collaborating on full-stack and open-source projects  
+
+## 🌱 Current Focus
+
+- React / Next.js ecosystem  
+- React Native mobile development  
+- Supabase and backend integration  
+- Improving system design and development practices  
+
+## 💡 Goals
+
+- Build scalable full-stack applications  
+- Contribute to meaningful open-source projects  
+- Grow as a professional software engineer  
+
