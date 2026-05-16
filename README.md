@@ -1,6 +1,6 @@
 # Hi, I'm Chit Ko Ko Aung 👋
 
-I am a Computer Science student and aspiring full-stack developer focused on building modern web applications.
+I am a Final-Year Computer Science student and aspiring full-stack developer focused on building modern web applications.
 
 ## 👨‍💻 About Me
 
